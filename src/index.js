@@ -20,7 +20,7 @@ function changeColor(button) {
         button.style.setProperty('background-color', 'red');
         current = 'red';
     } else {
-        button.style.setProperty('background-lolor', 'red');
+        button.style.setProperty('background-color', 'red');
         current = 'red';
     }
 
